@@ -12,6 +12,8 @@
 <div>
   <h2>Currently interested in / working on</h2>
   <ul>
+    <li>mobile app development</li>
+    <li>react</li>
     <li>linux</li>
   </ul>
 </div>
