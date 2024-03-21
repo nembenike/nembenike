@@ -9,6 +9,7 @@ i've been interested in computers and programming for quite some time now, now i
 * 🌍  I'm based in Budapest
 * ✉️  You can contact me at [benike@nuke.africa](mailto:benike@nuke.africa)
 * 🧠  I'm learning web frameworks
+* I'm interested in [Gleam](https://github.com/gleam-lang/gleam) and functional programming
 
 ### Skills
 
