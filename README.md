@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Functional Programming (Gleam,Elixir)**
 
-- 📫 How to reach me **benikespam@cocaine.ninja**
+- 📫 How to reach me: **benike** on Discord
 
 - Most of my projects are private because the code is rather questionable
 
