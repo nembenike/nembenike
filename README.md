@@ -1,4 +1,4 @@
-<h1 align="center">Hiya, I'm Beni</h1>
+<h1 align="center">Hello, I'm Beni</h1>
 
 <h3 align="center">A student and developer from Hungary</h3>
 
